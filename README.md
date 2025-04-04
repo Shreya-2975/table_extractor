@@ -39,9 +39,13 @@ python extract_tables.py sample.pdf extracted_tables.xlsx
 - 🔹 **Export to Excel** – Saves each detected table into a structured Excel sheet.
 - 🔹 **Batch Processing** – Automatically processes multiple PDFs from a given folder.
 
+## 🎥 Demo Video
+Watch the tool in action: [Demo Video Link](#) *(Replace with actual link)*
+
 ## ⚠️ Limitations
 - 🚫 May not work well with **handwritten or highly complex scanned PDFs**.
 - 🚫 **Very irregular tables** might need **manual adjustments**.
+
 
 
 
