@@ -40,7 +40,7 @@ python extract_tables.py sample.pdf extracted_tables.xlsx
 - 🔹 **Batch Processing** – Automatically processes multiple PDFs from a given folder.
 
 ## 🎥 Demo Video
-Watch the tool in action: [Demo Video Link](#) *(Replace with actual link)*
+[Demo Video Link](https://drive.google.com/drive/folders/1GnpsZJ5CiWdG9h1Ng8BEZv_FQmT-xQ1q?hl=en&q=sharedwith:public%20parent:1GnpsZJ5CiWdG9h1Ng8BEZv_FQmT-xQ1q)
 
 ## ⚠️ Limitations
 - 🚫 May not work well with **handwritten or highly complex scanned PDFs**.
